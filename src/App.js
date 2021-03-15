@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
     <div>
-      <Header />
+      <Header/>
       <Route exact path="/" component={employee} />
     </div>
     </Router>

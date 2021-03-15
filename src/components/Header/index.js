@@ -3,7 +3,7 @@ import "bootstrap";
 
 function Header() {
     return(
-        <header class="jumbotron"><h1>Employee Roster</h1></header>
+        <header className="jumbotron"><h1>Employee Roster</h1></header>
     )
 };
 
